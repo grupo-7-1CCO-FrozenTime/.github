@@ -7,8 +7,8 @@ para a indústria farmacêutica.</p>
 ênfase na inovação, qualidade e desenvolvimento tanto da empresa quanto na
 simbiose presente nas relações com nossos clientes.</p>
 <p>Com isso, também é de extrema importância o fato de que nossa empresa é
-constituída integralmente por mulheres, em que nossa integridade, honestidade e
-trabalho em equipe são refletidos na qualidade e excelência de nossos produtos.</p
+baseada em integridade, honestidade e
+trabalho em equipe que são refletidos na qualidade e excelência de nossos produtos.</p
 
 
  # <h1>Utilizamos:</h1>
@@ -16,3 +16,4 @@ trabalho em equipe são refletidos na qualidade e excelência de nossos produtos
 ![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Github Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Github Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
